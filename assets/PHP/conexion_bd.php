@@ -1,12 +1,12 @@
 <?php
 
-$servername = "localhost";
+$servername = "udlallang.database.windows.net";
 
-$username = "root";
+$username = "allan";
 
-$password = "";
+$password = "SeguridadInformatica1";
 
-$database = "contacto";
+$database = "ContactosUdl";
 
 //crear conexion
 
